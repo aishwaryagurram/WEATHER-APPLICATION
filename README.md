@@ -2,6 +2,10 @@
 
 A responsive web application that fetches real-time weather data from the OpenWeatherMap API and displays it in a user-friendly interface.
 
+## Demo
+
+Check out the live demo of the application [here](#) (coming soon).
+
 ## Features
 
 - Search for weather information by city name, zip code, or coordinates
